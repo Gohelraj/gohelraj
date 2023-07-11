@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **GoLang, Node.js, Javascript**
 
-- 📫 How to reach me **gohelraj11111996@gmail.com**
+- 📫 How to reach me **gohelraj.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
